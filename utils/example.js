@@ -1,4 +1,4 @@
-const MerkleTree = require('./MerkleTree');
+const MerkleTree = require('../server/MerkleTree');
 const niceList = require('./niceList');
 const verifyProof = require('./verifyProof');
 
